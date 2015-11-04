@@ -7,9 +7,9 @@
 Death to Dr. Pepper
 
 **Team Members:**  
-Kaira Villanueva
-Jamaal Sedayao
-Natalia Estrella
+*Kaira Villanueva
+*Jamaal Sedayao
+*Natalia Estrella
 
 
 ## The Problem 
