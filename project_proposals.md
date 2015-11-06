@@ -16,7 +16,7 @@ Death to Dr. Pepper
 We combat the crippling effects of bordom with games. Also, the lack of games playable with others on the subway or other places without wifi connection. Most humans love games. 
 
 ## The Solution 
-  * Demo 1 features: Have two devices connect through bluetooth. Actions done on one screen will the other connected device's screen.  
+  * Demo 1 features: Have two devices connect (Multipeer connectivity). Actions done on one screen will the affect other connected devices.   
   *  Bonus features: Gyroscope heavy features. This will help users further engage in the game. 
 
 ## Execution [SOON]
