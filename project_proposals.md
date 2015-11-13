@@ -30,10 +30,6 @@ http://www.telegraph.co.uk/technology/news/11532428/Why-smartphones-are-making-y
 
 * ZitchRun encourages users to run, jump, hide, and dodge their friends – its fun minus the sedentary style of other games
 
-* Demo 1 features: Have two devices connect (Multipeer connectivity). Actions done on one screen will the affect other connected devices
-
-*  Bonus features: Gyroscope heavy features. This will help users further engage in the game 
-
 ## Market Research
 
 * Mobile gaming has exploded in the past few years, especially on the iPhone. 94 million iPhones are in use in the U.S. as of March 2015, according to Consumer Intelligence Research Partners
