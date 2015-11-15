@@ -81,3 +81,11 @@ UI/UX, Core Bluetooth, animation, general gameplay, distance monitoring, music, 
 **Daniel:**
 
 General gameplay, Multipeer Connectivity and pre-round room, presentations, proposals, player map/radar, timer options, post-round statistics
+
+## Game Rules
+
+1. Players can be Healthy (green), Infected (yellow) or Viral (red).
+2. Viral player(s) must chase Healthy players.
+3. If a Healthy player is too close to a Viral player, they become Infected. 
+4. After 3 seconds of close contact, the Infected phase ends and the player becomes Viral.
+5. Game ends when all players are Viral or round timer reaches zero.
